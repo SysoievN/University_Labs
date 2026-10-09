@@ -1,21 +1,20 @@
 # Архітектура і проєктування ПЗ №1
 
 - ID: `software-architecture-lab-01`
-- Дедлайн у Teams: **20.12, 9:59 PM**; часовий пояс не підтверджений.
-- Стан Teams: `not_turned_in`
-- Прогрес виконання: `not_started`
-- Оригінал: `лабораторна робота 1 АППЗ.doc` — **ще не отриманий**.
-- Виявлені блокери: legacy_doc_not_read, original_not_downloaded.
-- Дані з Teams перевірені: 2026-10-09.
+- Строк у Teams: **20.12, 9:59 PM** (2026; часовий пояс не підтверджений).
+- Прогрес: `not_started`; стан Teams: `not_turned_in`.
+- Джерело: [Методичка](../sources/redacted/architecture-lab1.doc)
+- Аналіз джерела: `full_methodic_read`; готовність: `requirements_partially_reviewed`.
+- Блокери: variant_choice_required, deadline_timezone_unverified.
 
 ## Вимоги
 
-Див. [REQUIREMENTS.md](../REQUIREMENTS.md). Не починати реалізацію за самою назвою, якщо повний зміст методички не прочитаний.
+Прочитай [REQUIREMENTS.md](../REQUIREMENTS.md), методичку та [MANIFEST.json](../sources/MANIFEST.json). Текстові витяги — в `sources/extracted/`; за розбіжності звірити з PDF/Word.
 
 ## Варіант
 
-Не встановлений: основна .doc-методичка ще не прочитана.
+Див. REQUIREMENTS.md і variant_status у каталозі; не переносити номер з іншої дисципліни.
 
 ## Результат роботи Codex
 
-Після дозволу користувача створювати код, тести та знеособлені звіти в `work/<task-id>/`. Статус і перевірки записувати у `progress/<task-id>.json`. Персоналізовані титульні сторінки зберігати лише у ігнорованій папці `private-local/`. Самостійно не здавати.
+Виконувати лише після вибору користувачем. Код, тести й знеособлений звіт: `work/software-architecture-lab-01/`; прогрес: `progress/software-architecture-lab-01.json`. Персональні титули тільки в ігнорованій `private-local/`. Не здавати і не контактувати з викладачами.
