@@ -1,0 +1,21 @@
+{
+  "course": "networks",
+  "files": [
+    {
+      "filename": "Лаб 1_26_Мережеві Технології.docx",
+      "task_id": "networks-lab-01",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "Лаб 2_26_Мережеві Технології.doc",
+      "task_id": "networks-lab-02",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    }
+  ]
+}
