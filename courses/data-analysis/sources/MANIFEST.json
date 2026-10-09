@@ -1,0 +1,53 @@
+{
+  "course": "data-analysis",
+  "files": [
+    {
+      "filename": "data_analysis_lab1.pdf",
+      "task_id": "data-analysis-lab-01",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "data_analysis_lab2.pdf",
+      "task_id": "data-analysis-lab-02",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "data_analysis_lab3.pdf",
+      "task_id": "data-analysis-lab-03",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "data_analysis_lab4.pdf",
+      "task_id": "data-analysis-lab-04",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "data_analysis_lab5.pdf",
+      "task_id": "data-analysis-lab-05",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "data_analysis_lab6.pdf",
+      "task_id": "data-analysis-lab-06",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    }
+  ]
+}
