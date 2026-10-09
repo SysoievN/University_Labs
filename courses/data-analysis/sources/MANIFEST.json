@@ -3,51 +3,148 @@
   "files": [
     {
       "filename": "data_analysis_lab1.pdf",
-      "task_id": "data-analysis-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_analysis_lab1.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "7ee7826669e5367376a8158ec375ff42e6f2efa79faa0c042f256c43b2db6ecc",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "data_analysis_lab2.pdf",
-      "task_id": "data-analysis-lab-02",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_analysis_lab2.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "154662911f7f61a466965ec6b1ee7fd4f562b168eccddc3d26281ca2b2b25097",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "data_analysis_lab3.pdf",
-      "task_id": "data-analysis-lab-03",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_analysis_lab3.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "573d69d23539d7e68901f972099db23e8eb113571808b9aeff0bc6cece56bf45",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "data_analysis_lab4.pdf",
-      "task_id": "data-analysis-lab-04",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_analysis_lab4.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "8fb54a20115a3655b51ce219669b968d251e871b6b719b389a609bb719763344",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "data_analysis_lab5.pdf",
-      "task_id": "data-analysis-lab-05",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_analysis_lab5.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "a464800e8db8d74f52041678da26bd4d84309f6951346f791791d581201e1340",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "data_analysis_lab6.pdf",
-      "task_id": "data-analysis-lab-06",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_analysis_lab6.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "e40ccbad42fcff1391267184f1318d05a63474036a231d196c833b0ac2e6559f",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_lab1-3.zip",
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_lab1-3.zip",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "29723e0db075b8b5dfb332162745b492ab539a8229f117342e0c2146aae2c6f3",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_lab6.zip",
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/data_lab6.zip",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "4a72a8ccfb6689e2afc697b509106a8cba4da91dbd0c3a23e79c56295706ad15",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "tasks_lab4-5.docx",
+      "kind": "originals",
+      "path": "courses/data-analysis/sources/originals/tasks_lab4-5.docx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "8bf757fe9501f7fb10d5bd812278bf555417e0f806d5e36a86a09a0bcc70716b",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_analysis_lab1.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/data_analysis_lab1.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "4bdced159753dc38d5e153ac3fa72d921c97a3ea04647ed9ac7bbd67a8b2adb0",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_analysis_lab2.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/data_analysis_lab2.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "8709da7559a3238c521fe16df7527d71b9352347266b5743e5bd87a6761521fd",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_analysis_lab3.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/data_analysis_lab3.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "a7f796bc1fd5ed64addcc0de589b06a384b361591f2d8fd9f7b2cfd1be76ab44",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_analysis_lab4.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/data_analysis_lab4.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "7498cc3528dbd419135b5afee907323b7cf3a03e07d274051480af8ad210dc00",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_analysis_lab5.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/data_analysis_lab5.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "cfb6439ce4a1a5f4da0f223004f66b7e746ba2e3ac2d38eae1d1ca26c3cb0f83",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "data_analysis_lab6.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/data_analysis_lab6.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "4fd3df8b74280ee22d11ec858b03cd1b63293f02bbd4ca58a8fff4cd0c264f35",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "tasks_lab4-5.txt",
+      "kind": "extracted",
+      "path": "courses/data-analysis/sources/extracted/tasks_lab4-5.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "d1d16d02d17e2cc07d5ae44e7a05684b8a1c9c05a5fa856c37682d638511b5d0",
+      "reviewed_at": "2026-10-09"
     }
-  ]
+  ],
+  "notes": []
 }
