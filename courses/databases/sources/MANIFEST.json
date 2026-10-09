@@ -2,20 +2,86 @@
   "course": "databases",
   "files": [
     {
+      "filename": "21_Бази даних Мова запитів SQL.pdf",
+      "kind": "originals",
+      "path": "courses/databases/sources/originals/21_Бази даних Мова запитів SQL.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "9cdb73093ff2254efe7ef30bb368432d68eebf2491778e55f14a52fd3ccd5fcb",
+      "reviewed_at": "2026-10-09"
+    },
+    {
       "filename": "Бази даних_lab_1_ПЗ_2026.doc",
-      "task_id": "databases-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/databases/sources/originals/Бази даних_lab_1_ПЗ_2026.doc",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "26d83d5fefbea1457b5b98894109bcec85fcb00e890beda21087aa1e9e85d8ca",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "Бази даних_lab_2_ПЗ_2026.doc",
-      "task_id": "databases-lab-02",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/databases/sources/originals/Бази даних_lab_2_ПЗ_2026.doc",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "9959d9755bdfd2046ef5a1ae86cbe84e3b1417fe72d6d385e498c52a6fb37764",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Варіанти завдань ПЗ Бази Даних_Лаб 2025.docx",
+      "kind": "originals",
+      "path": "courses/databases/sources/originals/Варіанти завдань ПЗ Бази Даних_Лаб 2025.docx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "5603f77beb2e3b3c34969e2db29e5e0c6afe2abb9a864eee6615bd08f7955f20",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "До лабораторної_роботи_№1_Інсталяція_середовища_MS_SQL_Server.pptx",
+      "kind": "originals",
+      "path": "courses/databases/sources/originals/До лабораторної_роботи_№1_Інсталяція_середовища_MS_SQL_Server.pptx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "c9da2201f240e5edb95bd2ad4a8236a2fb255cc4cf595d87344e35372014f032",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "21_Бази даних Мова запитів SQL.txt",
+      "kind": "extracted",
+      "path": "courses/databases/sources/extracted/21_Бази даних Мова запитів SQL.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "b220c4dd20b93373c0cbcf7e1cccbd04a516d82476d9521fe43d1c450d73515f",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Бази даних_lab_1_ПЗ_2026.txt",
+      "kind": "extracted",
+      "path": "courses/databases/sources/extracted/Бази даних_lab_1_ПЗ_2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "29aa527fbf911d7c78b4e67c0ac10596577f0f331e978965b5806600199d759b",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Бази даних_lab_2_ПЗ_2026.txt",
+      "kind": "extracted",
+      "path": "courses/databases/sources/extracted/Бази даних_lab_2_ПЗ_2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "049f04aacc89a5e1e98cbca3a183b041d1d10b58efa5ededd948f692a4b45b60",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Варіанти завдань ПЗ Бази Даних_Лаб 2025.txt",
+      "kind": "extracted",
+      "path": "courses/databases/sources/extracted/Варіанти завдань ПЗ Бази Даних_Лаб 2025.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "be7e2e1278caa92a7f8dcf9580c725011edc8fdebb7a74a8b5d379797cf31b28",
+      "reviewed_at": "2026-10-09"
     }
-  ]
+  ],
+  "notes": []
 }
