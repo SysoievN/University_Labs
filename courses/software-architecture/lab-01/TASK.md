@@ -4,8 +4,8 @@
 - Строк у Teams: **20.12, 9:59 PM** (2026; часовий пояс не підтверджений).
 - Прогрес: `not_started`; стан Teams: `not_turned_in`.
 - Джерело: [Методичка](../sources/redacted/architecture-lab1.doc)
-- Аналіз джерела: `full_methodic_read`; готовність: `requirements_partially_reviewed`.
-- Блокери: variant_choice_required, deadline_timezone_unverified.
+- Аналіз джерела: `full_methodic_read`; готовність: `ready`.
+- Блокери: deadline_timezone_unverified.
 
 ## Вимоги
 
@@ -13,7 +13,7 @@
 
 ## Варіант
 
-Див. REQUIREMENTS.md і variant_status у каталозі; не переносити номер з іншої дисципліни.
+Вільний вибір: **№20**. Комплектуючі до верстатів: три основні сутності й одна явно задана діаграма; менше операцій, ніж у решти запропонованих областей. Не вигадувати додаткову предметну область.
 
 ## Результат роботи Codex
 
