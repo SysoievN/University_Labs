@@ -4,8 +4,8 @@
 - Строк у Teams: **не опубліковано** (2026; часовий пояс не підтверджений).
 - Прогрес: `not_started`; стан Teams: `not_found`.
 - Джерело: [Методичка](../sources/originals/data_analysis_lab6.pdf)
-- Аналіз джерела: `full_methodic_read`; готовність: `requirements_partially_reviewed`.
-- Блокери: course_variant_unverified.
+- Аналіз джерела: `full_methodic_read`; готовність: `ready`.
+- Блокери: немає.
 
 ## Вимоги
 
@@ -13,7 +13,7 @@
 
 ## Варіант
 
-Див. REQUIREMENTS.md і variant_status у каталозі; не переносити номер з іншої дисципліни.
+Призначений варіант **21**, підтверджений користувачем 2026-10-09. Див. [зведення варіантів](../../../docs/VARIANTS.md). Задача №1: 21 % 5 = 1.
 
 ## Результат роботи Codex
 
