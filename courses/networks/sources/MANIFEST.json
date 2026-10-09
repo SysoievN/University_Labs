@@ -3,19 +3,40 @@
   "files": [
     {
       "filename": "Лаб 1_26_Мережеві Технології.docx",
-      "task_id": "networks-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/networks/sources/originals/Лаб 1_26_Мережеві Технології.docx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "231c6248fdef696c8158528a9dc15868536d0c2e6366209d6d91c7523bead21b",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "Лаб 2_26_Мережеві Технології.doc",
-      "task_id": "networks-lab-02",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/networks/sources/originals/Лаб 2_26_Мережеві Технології.doc",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "45a3d60e864bd80ccca3d9420e5240a92df3f10851407a898162aa27238d52d3",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Лаб 1_26_Мережеві Технології.txt",
+      "kind": "extracted",
+      "path": "courses/networks/sources/extracted/Лаб 1_26_Мережеві Технології.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "1e4838d833614f4176b03c249b44010a684e38992e69096132b31b8668062339",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Лаб 2_26_Мережеві Технології.txt",
+      "kind": "extracted",
+      "path": "courses/networks/sources/extracted/Лаб 2_26_Мережеві Технології.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "9c93554c6281bd81781fe0cd84bef33696e3b9a560a127c49a00e5e4a8dcad39",
+      "reviewed_at": "2026-10-09"
     }
-  ]
+  ],
+  "notes": []
 }
