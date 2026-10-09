@@ -2,12 +2,25 @@
   "course": "software-architecture",
   "files": [
     {
-      "filename": "лабораторна робота 1 АППЗ.doc",
-      "task_id": "software-architecture-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "filename": "architecture-lab1.doc",
+      "kind": "redacted",
+      "path": "courses/software-architecture/sources/redacted/architecture-lab1.doc",
+      "status": "redacted",
+      "privacy_review": "passed",
+      "sha256": "69652c88ad25902df48dd2344dea6998054ee13c460fc0ec45778e2f2e135774",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "лабораторна робота 1 АППЗ.txt",
+      "kind": "extracted",
+      "path": "courses/software-architecture/sources/extracted/лабораторна робота 1 АППЗ.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "c6ef624ad1647c572935331964225cc03517d52437691468c502726ef43ae311",
+      "reviewed_at": "2026-10-09"
     }
+  ],
+  "notes": [
+    "Неочищений файл з персональними метаданими виключено; збережено тільки redacted-копію без самих персональних даних."
   ]
 }
