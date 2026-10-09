@@ -3,11 +3,60 @@
   "files": [
     {
       "filename": "ЛР1.pdf",
-      "task_id": "java-backend-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/java-backend/sources/originals/ЛР1.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "a6c69f0139f0b2472a7289d88af1be5e6c671f23ea9608c15461f42bacacccf8",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "РСО.pdf",
+      "kind": "originals",
+      "path": "courses/java-backend/sources/originals/РСО.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "75940d6dd82111f025610e5119adbd991b85030f16b9e2066ae541862196603d",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Шаблон звіту з лабораторної роботи.pdf",
+      "kind": "originals",
+      "path": "courses/java-backend/sources/originals/Шаблон звіту з лабораторної роботи.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "cb1a6247cfe1aa6dd74baa2755e1d3d0a9d4815aa4129d02863005c34021007c",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ЛР1.txt",
+      "kind": "extracted",
+      "path": "courses/java-backend/sources/extracted/ЛР1.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "e27fd357b6ed7cd57ffd383ec5a79a28d864a2f1c4440acd47edddd3973956f5",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "РСО.txt",
+      "kind": "extracted",
+      "path": "courses/java-backend/sources/extracted/РСО.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "a0eadc28c878a8d84b0fa32fab258b5592bd3bddbdc980794e3f311331122a67",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Шаблон звіту з лабораторної роботи.txt",
+      "kind": "extracted",
+      "path": "courses/java-backend/sources/extracted/Шаблон звіту з лабораторної роботи.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "c672be835cf4a889affd8219a8905b088f9d84d804b6e52e23b171fcd01f3c04",
+      "reviewed_at": "2026-10-09"
     }
+  ],
+  "notes": [
+    "Список студентів XLSX виключено. Перевірено тільки власний рядок: варіант 18; жодних ПІБ у каталозі."
   ]
 }
