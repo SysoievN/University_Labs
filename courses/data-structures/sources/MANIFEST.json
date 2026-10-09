@@ -1,0 +1,53 @@
+{
+  "course": "data-structures",
+  "files": [
+    {
+      "filename": "ДС_ЛР_1 2026.pdf",
+      "task_id": "data-structures-lab-01",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "ДС_ЛР_2 2026.pdf",
+      "task_id": "data-structures-lab-02",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "ДС_ЛР_3 2026.pdf",
+      "task_id": "data-structures-lab-03",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "ДС_ЛР_4 2026.pdf",
+      "task_id": "data-structures-lab-04",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "ДС_ЛР_5 2026.pdf",
+      "task_id": "data-structures-lab-05",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "ДС_ЛР_6 2026.pdf",
+      "task_id": "data-structures-lab-06",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    }
+  ]
+}
