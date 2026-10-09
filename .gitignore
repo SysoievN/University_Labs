@@ -1,0 +1,24 @@
+# Credentials and personal/local material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.har
+*cookies*
+*session*
+private-local/
+downloads-unreviewed/
+raw-observations/
+*.log
+# Build/editor output
+.idea/
+.vs/
+node_modules/
+target/
+bin/
+obj/
+__pycache__/
+~$*
