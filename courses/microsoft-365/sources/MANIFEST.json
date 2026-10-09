@@ -2,28 +2,43 @@
   "course": "microsoft-365",
   "files": [
     {
-      "filename": "Посилання у Reference materials; назва файла не встановлена",
-      "task_id": "microsoft-365-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
-    },
-    {
       "filename": "Завдання до лаб 2.docx",
-      "task_id": "microsoft-365-lab-02",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/microsoft-365/sources/originals/Завдання до лаб 2.docx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "e5bdbdea932dbe6c1b51fef09525e2c1e41983ab773a67888d9215eec53198e6",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "Лабораторна робота 3.docx",
-      "task_id": "microsoft-365-lab-03",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/microsoft-365/sources/originals/Лабораторна робота 3.docx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "2805d53a9b3c07467616ea724c72692bab92b5885662447538bd24a3feea215b",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Завдання до лаб 2.txt",
+      "kind": "extracted",
+      "path": "courses/microsoft-365/sources/extracted/Завдання до лаб 2.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "e2dc8019a9bed1c525009bc9c4d850a0f2281c5ec09c587ea0a16bcde7374e92",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Лабораторна робота 3.txt",
+      "kind": "extracted",
+      "path": "courses/microsoft-365/sources/extracted/Лабораторна робота 3.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "4b28a53ba07a6cde2ba32af7e189fcf3f8971cfdca34c9a7c444b57e4ee20af4",
+      "reviewed_at": "2026-10-09"
     }
+  ],
+  "notes": [
+    "Для №1 у Assignments бібліотеки немає окремого файла; Reference materials потребує уточнення."
   ]
 }
