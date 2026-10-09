@@ -1,0 +1,29 @@
+{
+  "course": "microsoft-365",
+  "files": [
+    {
+      "filename": "Посилання у Reference materials; назва файла не встановлена",
+      "task_id": "microsoft-365-lab-01",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "Завдання до лаб 2.docx",
+      "task_id": "microsoft-365-lab-02",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "Лабораторна робота 3.docx",
+      "task_id": "microsoft-365-lab-03",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    }
+  ]
+}
