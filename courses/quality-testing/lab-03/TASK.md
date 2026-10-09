@@ -4,8 +4,8 @@
 - Строк у Teams: **17.12, 10:59 PM** (2026; часовий пояс не підтверджений).
 - Прогрес: `not_started`; стан Teams: `not_turned_in`.
 - Джерело: [Методичка](../sources/originals/Лаб3 (1).doc)
-- Аналіз джерела: `full_methodic_read`; готовність: `requirements_partially_reviewed`.
-- Блокери: variant_choice_required, deadline_timezone_unverified.
+- Аналіз джерела: `full_methodic_read`; готовність: `ready`.
+- Блокери: deadline_timezone_unverified.
 
 ## Вимоги
 
@@ -13,7 +13,7 @@
 
 ## Варіант
 
-Див. REQUIREMENTS.md і variant_status у каталозі; не переносити номер з іншої дисципліни.
+Вільний вибір: **№3**. Gatling computer database: додати/редагувати/видалити комп’ютер без окремого сценарію авторизації. Спільна частина JMeter залишається обов’язковою.
 
 ## Результат роботи Codex
 
