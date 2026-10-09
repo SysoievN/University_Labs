@@ -1,0 +1,21 @@
+{
+  "course": "databases",
+  "files": [
+    {
+      "filename": "Бази даних_lab_1_ПЗ_2026.doc",
+      "task_id": "databases-lab-01",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "Бази даних_lab_2_ПЗ_2026.doc",
+      "task_id": "databases-lab-02",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    }
+  ]
+}
