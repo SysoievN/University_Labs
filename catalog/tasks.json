@@ -21,15 +21,21 @@
       "execution_status": "not_started",
       "points_displayed": "11",
       "source_file": "data_analysis_lab1.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-analysis/sources/originals/data_analysis_lab1.pdf",
       "variant_status": "unverified",
       "instructions_path": "courses/data-analysis/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/data-analysis/sources/originals/data_analysis_lab1.pdf",
+      "source_sha256": "7ee7826669e5367376a8158ec375ff42e6f2efa79faa0c042f256c43b2db6ecc",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab1.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-structures-lab-01",
@@ -45,15 +51,20 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "ДС_ЛР_1 2026.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-structures/sources/originals/ДС_ЛР_1 2026.pdf",
+      "variant_status": "not_required",
       "instructions_path": "courses/data-structures/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/data-structures/sources/originals/ДС_ЛР_1 2026.pdf",
+      "source_sha256": "fdd64d2cfa718191d38b10b53ededc1e7be444731b0ba10e37de7de210dfca9e",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-structures/sources/extracted/ДС_ЛР_1 2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "quality-testing-lab-01",
@@ -69,20 +80,25 @@
       "execution_status": "not_started",
       "points_displayed": "15",
       "source_file": "Лаб1.docx",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/quality-testing/sources/originals/Лаб1.docx",
       "variant_status": "user_provided_not_rechecked",
       "instructions_path": "courses/quality-testing/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "original_not_downloaded"
+        "deadline_timezone_unverified"
       ],
       "variant": {
         "number": 21,
         "source": "user_statement_2026-09-20",
         "current_journal_verified": false
-      }
+      },
+      "source_path": "courses/quality-testing/sources/originals/Лаб1.docx",
+      "source_sha256": "a2901711860be42c8f7e56a4b4010e02405f7478243ea7555412bb7ad1a15e97",
+      "source_kind": "originals",
+      "extracted_path": "courses/quality-testing/sources/extracted/Лаб1.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "networks-lab-01",
@@ -98,15 +114,20 @@
       "execution_status": "not_started",
       "points_displayed": "Без балів",
       "source_file": "Лаб 1_26_Мережеві Технології.docx",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/networks/sources/originals/Лаб 1_26_Мережеві Технології.docx",
+      "variant_status": "not_required",
       "instructions_path": "courses/networks/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/networks/sources/originals/Лаб 1_26_Мережеві Технології.docx",
+      "source_sha256": "231c6248fdef696c8158528a9dc15868536d0c2e6366209d6d91c7523bead21b",
+      "source_kind": "originals",
+      "extracted_path": "courses/networks/sources/extracted/Лаб 1_26_Мережеві Технології.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "databases-lab-01",
@@ -122,16 +143,21 @@
       "execution_status": "not_started",
       "points_displayed": "Без балів",
       "source_file": "Бази даних_lab_1_ПЗ_2026.doc",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/databases/sources/originals/Бази даних_lab_1_ПЗ_2026.doc",
       "variant_status": "unverified",
       "instructions_path": "courses/databases/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "legacy_doc_not_read",
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/databases/sources/originals/Бази даних_lab_1_ПЗ_2026.doc",
+      "source_sha256": "26d83d5fefbea1457b5b98894109bcec85fcb00e890beda21087aa1e9e85d8ca",
+      "source_kind": "originals",
+      "extracted_path": "courses/databases/sources/extracted/Бази даних_lab_1_ПЗ_2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-analysis-lab-02",
@@ -147,15 +173,21 @@
       "execution_status": "not_started",
       "points_displayed": "11",
       "source_file": "data_analysis_lab2.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-analysis/sources/originals/data_analysis_lab2.pdf",
       "variant_status": "unverified",
       "instructions_path": "courses/data-analysis/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/data-analysis/sources/originals/data_analysis_lab2.pdf",
+      "source_sha256": "154662911f7f61a466965ec6b1ee7fd4f562b168eccddc3d26281ca2b2b25097",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab2.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-structures-lab-02",
@@ -171,16 +203,20 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "ДС_ЛР_2 2026.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-structures/sources/originals/ДС_ЛР_2 2026.pdf",
+      "variant_status": "not_required",
       "instructions_path": "courses/data-structures/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "pdf_details_not_read",
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/data-structures/sources/originals/ДС_ЛР_2 2026.pdf",
+      "source_sha256": "b85e1cf94bc1e1ad23e604ba333099e506d58aa81aa95ffe995c81e615c88d9b",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-structures/sources/extracted/ДС_ЛР_2 2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "java-backend-lab-01",
@@ -194,25 +230,34 @@
       "deadline_timezone_status": "unverified",
       "teams_submission_status": "not_turned_in",
       "execution_status": "not_started",
-      "points_displayed": "Без балів",
+      "points_displayed": "25 (РСО; у картці Teams бали не задані)",
       "source_file": "ЛР1.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/java-backend/sources/originals/ЛР1.pdf",
+      "variant_status": "verified",
       "instructions_path": "courses/java-backend/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "full_assignment_pdf_not_read",
-        "variant_unverified",
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/java-backend/sources/originals/ЛР1.pdf",
+      "source_sha256": "a6c69f0139f0b2472a7289d88af1be5e6c671f23ea9608c15461f42bacacccf8",
+      "source_kind": "originals",
+      "extracted_path": "courses/java-backend/sources/extracted/ЛР1.txt",
+      "variant": {
+        "number": 18,
+        "source": "own_row_in_course_variant_list",
+        "verified_at": "2026-10-09",
+        "personal_data_stored": false
+      },
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "quality-testing-lab-02",
       "course": "quality-testing",
       "number": 2,
-      "title": "Якість №2 — тема всередині .doc, не прочитана",
+      "title": "Якість №2 — Selenium Page Object Model",
       "published": true,
       "deadline_displayed": "01.11, 10:59 PM",
       "deadline_year": 2026,
@@ -222,22 +267,27 @@
       "execution_status": "not_started",
       "points_displayed": "30",
       "source_file": "Лаб2 1 (1).doc",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/quality-testing/sources/originals/Лаб2 1 (1).doc",
+      "variant_status": "user_choice_required",
       "instructions_path": "courses/quality-testing/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "legacy_doc_not_read",
-        "original_not_downloaded"
-      ]
+        "variant_choice_required",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/quality-testing/sources/originals/Лаб2 1 (1).doc",
+      "source_sha256": "eeb9656ab020decbf49317c7c3afe1c9ef50d16afa4a62c3658f850abef4a237",
+      "source_kind": "originals",
+      "extracted_path": "courses/quality-testing/sources/extracted/Лаб2 1 (1).txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "networks-lab-02",
       "course": "networks",
       "number": 2,
-      "title": "Мережі №2 — тема всередині .doc, не прочитана",
+      "title": "Мережі №2 — TCP-чат на C#",
       "published": true,
       "deadline_displayed": "04.11, 12:00 PM",
       "deadline_year": 2026,
@@ -247,16 +297,20 @@
       "execution_status": "not_started",
       "points_displayed": "Без балів",
       "source_file": "Лаб 2_26_Мережеві Технології.doc",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/networks/sources/originals/Лаб 2_26_Мережеві Технології.doc",
+      "variant_status": "not_required",
       "instructions_path": "courses/networks/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "legacy_doc_not_read",
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/networks/sources/originals/Лаб 2_26_Мережеві Технології.doc",
+      "source_sha256": "45a3d60e864bd80ccca3d9420e5240a92df3f10851407a898162aa27238d52d3",
+      "source_kind": "originals",
+      "extracted_path": "courses/networks/sources/extracted/Лаб 2_26_Мережеві Технології.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "databases-lab-02",
@@ -272,16 +326,21 @@
       "execution_status": "not_started",
       "points_displayed": "Без балів",
       "source_file": "Бази даних_lab_2_ПЗ_2026.doc",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/databases/sources/originals/Бази даних_lab_2_ПЗ_2026.doc",
       "variant_status": "unverified",
       "instructions_path": "courses/databases/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "legacy_doc_not_read",
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/databases/sources/originals/Бази даних_lab_2_ПЗ_2026.doc",
+      "source_sha256": "9959d9755bdfd2046ef5a1ae86cbe84e3b1417fe72d6d385e498c52a6fb37764",
+      "source_kind": "originals",
+      "extracted_path": "courses/databases/sources/extracted/Бази даних_lab_2_ПЗ_2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-structures-lab-03",
@@ -297,16 +356,20 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "ДС_ЛР_3 2026.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-structures/sources/originals/ДС_ЛР_3 2026.pdf",
+      "variant_status": "not_required",
       "instructions_path": "courses/data-structures/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "pdf_details_not_read",
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/data-structures/sources/originals/ДС_ЛР_3 2026.pdf",
+      "source_sha256": "dbabc0517c0254be67068613f426f70aff9c66d0529939b9b5f1c06c1938905c",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-structures/sources/extracted/ДС_ЛР_3 2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-structures-lab-04",
@@ -322,17 +385,21 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "ДС_ЛР_4 2026.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-structures/sources/originals/ДС_ЛР_4 2026.pdf",
+      "variant_status": "not_required",
       "instructions_path": "courses/data-structures/lab-04/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "pdf_details_not_read",
-        "original_not_downloaded"
+        "deadline_timezone_unverified"
       ],
-      "channel_card_date": "2026-11-20"
+      "channel_card_date": "2026-11-20",
+      "source_path": "courses/data-structures/sources/originals/ДС_ЛР_4 2026.pdf",
+      "source_sha256": "58d240e086ccb7bf6cab56a3e57ee2e7c80963455789f9ccd6c828eac8421dbf",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-structures/sources/extracted/ДС_ЛР_4 2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-structures-lab-05",
@@ -348,23 +415,27 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "ДС_ЛР_5 2026.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-structures/sources/originals/ДС_ЛР_5 2026.pdf",
+      "variant_status": "not_required",
       "instructions_path": "courses/data-structures/lab-05/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "pdf_details_not_read",
-        "original_not_downloaded"
+        "deadline_timezone_unverified"
       ],
-      "channel_card_date": "2026-12-04"
+      "channel_card_date": "2026-12-04",
+      "source_path": "courses/data-structures/sources/originals/ДС_ЛР_5 2026.pdf",
+      "source_sha256": "81308f157372e416462e5b3c1bc1c1c5f3cf0b193cd7304f7dfa7b12486eba32",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-structures/sources/extracted/ДС_ЛР_5 2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "quality-testing-lab-03",
       "course": "quality-testing",
       "number": 3,
-      "title": "Якість №3 — тема всередині .doc, не прочитана",
+      "title": "Якість №3 — JMeter",
       "published": true,
       "deadline_displayed": "17.12, 10:59 PM",
       "deadline_year": 2026,
@@ -374,16 +445,21 @@
       "execution_status": "not_started",
       "points_displayed": "20",
       "source_file": "Лаб3 (1).doc",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/quality-testing/sources/originals/Лаб3 (1).doc",
+      "variant_status": "user_choice_required",
       "instructions_path": "courses/quality-testing/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "legacy_doc_not_read",
-        "original_not_downloaded"
-      ]
+        "variant_choice_required",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/quality-testing/sources/originals/Лаб3 (1).doc",
+      "source_sha256": "2872ed76c86bf5d04d1bc8d3025e340fcc4da1a952ed1ea37b53357f9fea68f5",
+      "source_kind": "originals",
+      "extracted_path": "courses/quality-testing/sources/extracted/Лаб3 (1).txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "software-architecture-lab-01",
@@ -399,17 +475,22 @@
       "execution_status": "not_started",
       "points_displayed": "60",
       "source_file": "лабораторна робота 1 АППЗ.doc",
-      "original_file_status": "not_downloaded",
+      "original_file_status": "withheld_personal_metadata",
       "original_path": null,
-      "variant_status": "unverified",
+      "variant_status": "user_choice_required",
       "instructions_path": "courses/software-architecture/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "legacy_doc_not_read",
-        "original_not_downloaded"
+        "variant_choice_required",
+        "deadline_timezone_unverified"
       ],
-      "closes_displayed": "31.01.2027, 9:59 PM"
+      "closes_displayed": "31.01.2027, 9:59 PM",
+      "source_path": "courses/software-architecture/sources/redacted/architecture-lab1.doc",
+      "source_sha256": "69652c88ad25902df48dd2344dea6998054ee13c460fc0ec45778e2f2e135774",
+      "source_kind": "redacted",
+      "extracted_path": "courses/software-architecture/sources/extracted/лабораторна робота 1 АППЗ.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-structures-lab-06",
@@ -425,17 +506,21 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "ДС_ЛР_6 2026.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-structures/sources/originals/ДС_ЛР_6 2026.pdf",
+      "variant_status": "not_required",
       "instructions_path": "courses/data-structures/lab-06/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "needs_source_review",
+      "ingestion_status": "ready",
       "blockers": [
-        "pdf_details_not_read",
-        "original_not_downloaded"
+        "deadline_timezone_unverified"
       ],
-      "channel_card_date": "2026-12-23"
+      "channel_card_date": "2026-12-23",
+      "source_path": "courses/data-structures/sources/originals/ДС_ЛР_6 2026.pdf",
+      "source_sha256": "a875af18a1276170d08a8ae288ce3bbe9a9706423d2c983a6f5804a45f19505c",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-structures/sources/extracted/ДС_ЛР_6 2026.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "microsoft-365-lab-01",
@@ -453,13 +538,15 @@
       "source_file": "Посилання у Reference materials; назва файла не встановлена",
       "original_file_status": "not_downloaded",
       "original_path": null,
-      "variant_status": "unverified",
+      "variant_status": "not_required",
       "instructions_path": "courses/microsoft-365/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "needs_source_review",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "reference_materials_not_reviewed",
+        "deadline_timezone_unverified"
+      ],
+      "requirements_review": "assignment_card_only"
     },
     {
       "id": "microsoft-365-lab-02",
@@ -475,15 +562,20 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "Завдання до лаб 2.docx",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/microsoft-365/sources/originals/Завдання до лаб 2.docx",
+      "variant_status": "not_required",
       "instructions_path": "courses/microsoft-365/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/microsoft-365/sources/originals/Завдання до лаб 2.docx",
+      "source_sha256": "e5bdbdea932dbe6c1b51fef09525e2c1e41983ab773a67888d9215eec53198e6",
+      "source_kind": "originals",
+      "extracted_path": "courses/microsoft-365/sources/extracted/Завдання до лаб 2.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "microsoft-365-lab-03",
@@ -499,15 +591,21 @@
       "execution_status": "not_started",
       "points_displayed": "10",
       "source_file": "Лабораторна робота 3.docx",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
-      "variant_status": "unverified",
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/microsoft-365/sources/originals/Лабораторна робота 3.docx",
+      "variant_status": "user_choice_required",
       "instructions_path": "courses/microsoft-365/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "original_not_downloaded"
-      ]
+        "variant_choice_required",
+        "deadline_timezone_unverified"
+      ],
+      "source_path": "courses/microsoft-365/sources/originals/Лабораторна робота 3.docx",
+      "source_sha256": "2805d53a9b3c07467616ea724c72692bab92b5885662447538bd24a3feea215b",
+      "source_kind": "originals",
+      "extracted_path": "courses/microsoft-365/sources/extracted/Лабораторна робота 3.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-analysis-lab-03",
@@ -520,16 +618,20 @@
       "teams_submission_status": "not_found",
       "execution_status": "not_started",
       "source_file": "data_analysis_lab3.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-analysis/sources/originals/data_analysis_lab3.pdf",
       "variant_status": "unverified",
       "instructions_path": "courses/data-analysis/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "deadline_not_found",
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified"
+      ],
+      "source_path": "courses/data-analysis/sources/originals/data_analysis_lab3.pdf",
+      "source_sha256": "573d69d23539d7e68901f972099db23e8eb113571808b9aeff0bc6cece56bf45",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab3.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-analysis-lab-04",
@@ -542,16 +644,20 @@
       "teams_submission_status": "not_found",
       "execution_status": "not_started",
       "source_file": "data_analysis_lab4.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-analysis/sources/originals/data_analysis_lab4.pdf",
       "variant_status": "unverified",
       "instructions_path": "courses/data-analysis/lab-04/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "deadline_not_found",
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified"
+      ],
+      "source_path": "courses/data-analysis/sources/originals/data_analysis_lab4.pdf",
+      "source_sha256": "8fb54a20115a3655b51ce219669b968d251e871b6b719b389a609bb719763344",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab4.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-analysis-lab-05",
@@ -564,16 +670,20 @@
       "teams_submission_status": "not_found",
       "execution_status": "not_started",
       "source_file": "data_analysis_lab5.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-analysis/sources/originals/data_analysis_lab5.pdf",
       "variant_status": "unverified",
       "instructions_path": "courses/data-analysis/lab-05/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "deadline_not_found",
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified"
+      ],
+      "source_path": "courses/data-analysis/sources/originals/data_analysis_lab5.pdf",
+      "source_sha256": "a464800e8db8d74f52041678da26bd4d84309f6951346f791791d581201e1340",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab5.txt",
+      "requirements_review": "full_methodic_read"
     },
     {
       "id": "data-analysis-lab-06",
@@ -586,16 +696,22 @@
       "teams_submission_status": "not_found",
       "execution_status": "not_started",
       "source_file": "data_analysis_lab6.pdf",
-      "original_file_status": "not_downloaded",
-      "original_path": null,
+      "original_file_status": "downloaded_verified",
+      "original_path": "courses/data-analysis/sources/originals/data_analysis_lab6.pdf",
       "variant_status": "unverified",
       "instructions_path": "courses/data-analysis/lab-06/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "requirements_partially_reviewed",
       "blockers": [
-        "deadline_not_found",
-        "original_not_downloaded"
-      ]
+        "course_variant_unverified"
+      ],
+      "source_path": "courses/data-analysis/sources/originals/data_analysis_lab6.pdf",
+      "source_sha256": "e40ccbad42fcff1391267184f1318d05a63474036a231d196c833b0ac2e6559f",
+      "source_kind": "originals",
+      "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab6.txt",
+      "requirements_review": "full_methodic_read"
     }
-  ]
+  ],
+  "planning_timezone": "Europe/Kiev",
+  "planning_timezone_note": "Часовий пояс користувача, не підтвердження часового поясу відображених Teams-дедлайнів."
 }
