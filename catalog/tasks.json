@@ -23,19 +23,23 @@
       "source_file": "data_analysis_lab1.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/data-analysis/sources/originals/data_analysis_lab1.pdf",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/data-analysis/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "course_variant_unverified",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/data-analysis/sources/originals/data_analysis_lab1.pdf",
       "source_sha256": "7ee7826669e5367376a8158ec375ff42e6f2efa79faa0c042f256c43b2db6ecc",
       "source_kind": "originals",
       "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab1.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-structures-lab-01",
@@ -82,7 +86,7 @@
       "source_file": "Лаб1.docx",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/quality-testing/sources/originals/Лаб1.docx",
-      "variant_status": "user_provided_not_rechecked",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/quality-testing/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "ready",
@@ -91,8 +95,8 @@
       ],
       "variant": {
         "number": 21,
-        "source": "user_statement_2026-09-20",
-        "current_journal_verified": false
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
       },
       "source_path": "courses/quality-testing/sources/originals/Лаб1.docx",
       "source_sha256": "a2901711860be42c8f7e56a4b4010e02405f7478243ea7555412bb7ad1a15e97",
@@ -145,19 +149,23 @@
       "source_file": "Бази даних_lab_1_ПЗ_2026.doc",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/databases/sources/originals/Бази даних_lab_1_ПЗ_2026.doc",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/databases/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "course_variant_unverified",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/databases/sources/originals/Бази даних_lab_1_ПЗ_2026.doc",
       "source_sha256": "26d83d5fefbea1457b5b98894109bcec85fcb00e890beda21087aa1e9e85d8ca",
       "source_kind": "originals",
       "extracted_path": "courses/databases/sources/extracted/Бази даних_lab_1_ПЗ_2026.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-analysis-lab-02",
@@ -175,19 +183,23 @@
       "source_file": "data_analysis_lab2.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/data-analysis/sources/originals/data_analysis_lab2.pdf",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/data-analysis/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "course_variant_unverified",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/data-analysis/sources/originals/data_analysis_lab2.pdf",
       "source_sha256": "154662911f7f61a466965ec6b1ee7fd4f562b168eccddc3d26281ca2b2b25097",
       "source_kind": "originals",
       "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab2.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-structures-lab-02",
@@ -234,7 +246,7 @@
       "source_file": "ЛР1.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/java-backend/sources/originals/ЛР1.pdf",
-      "variant_status": "verified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/java-backend/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
       "ingestion_status": "ready",
@@ -246,10 +258,13 @@
       "source_kind": "originals",
       "extracted_path": "courses/java-backend/sources/extracted/ЛР1.txt",
       "variant": {
-        "number": 18,
-        "source": "own_row_in_course_variant_list",
-        "verified_at": "2026-10-09",
-        "personal_data_stored": false
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false,
+        "source_conflict": {
+          "course_list_number": 18,
+          "resolution": "user_override_21"
+        }
       },
       "requirements_review": "full_methodic_read"
     },
@@ -269,19 +284,23 @@
       "source_file": "Лаб2 1 (1).doc",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/quality-testing/sources/originals/Лаб2 1 (1).doc",
-      "variant_status": "user_choice_required",
+      "variant_status": "agent_selected",
       "instructions_path": "courses/quality-testing/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "variant_choice_required",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/quality-testing/sources/originals/Лаб2 1 (1).doc",
       "source_sha256": "eeb9656ab020decbf49317c7c3afe1c9ef50d16afa4a62c3658f850abef4a237",
       "source_kind": "originals",
       "extracted_path": "courses/quality-testing/sources/extracted/Лаб2 1 (1).txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 1,
+        "source": "user_delegated_free_choice_2026-10-09",
+        "rationale": "DemoWebShop: менше дій, ніж у Petstore/OrangeHRM; повторне використання сайту з №1."
+      }
     },
     {
       "id": "networks-lab-02",
@@ -328,19 +347,23 @@
       "source_file": "Бази даних_lab_2_ПЗ_2026.doc",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/databases/sources/originals/Бази даних_lab_2_ПЗ_2026.doc",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/databases/lab-02/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "course_variant_unverified",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/databases/sources/originals/Бази даних_lab_2_ПЗ_2026.doc",
       "source_sha256": "9959d9755bdfd2046ef5a1ae86cbe84e3b1417fe72d6d385e498c52a6fb37764",
       "source_kind": "originals",
       "extracted_path": "courses/databases/sources/extracted/Бази даних_lab_2_ПЗ_2026.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-structures-lab-03",
@@ -447,19 +470,23 @@
       "source_file": "Лаб3 (1).doc",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/quality-testing/sources/originals/Лаб3 (1).doc",
-      "variant_status": "user_choice_required",
+      "variant_status": "agent_selected",
       "instructions_path": "courses/quality-testing/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "variant_choice_required",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/quality-testing/sources/originals/Лаб3 (1).doc",
       "source_sha256": "2872ed76c86bf5d04d1bc8d3025e340fcc4da1a952ed1ea37b53357f9fea68f5",
       "source_kind": "originals",
       "extracted_path": "courses/quality-testing/sources/extracted/Лаб3 (1).txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 3,
+        "source": "user_delegated_free_choice_2026-10-09",
+        "rationale": "Gatling computer database: додати/редагувати/видалити комп’ютер без окремого сценарію авторизації. Спільна частина JMeter залишається обов’язковою."
+      }
     },
     {
       "id": "software-architecture-lab-01",
@@ -477,12 +504,11 @@
       "source_file": "лабораторна робота 1 АППЗ.doc",
       "original_file_status": "withheld_personal_metadata",
       "original_path": null,
-      "variant_status": "user_choice_required",
+      "variant_status": "agent_selected",
       "instructions_path": "courses/software-architecture/lab-01/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "variant_choice_required",
         "deadline_timezone_unverified"
       ],
       "closes_displayed": "31.01.2027, 9:59 PM",
@@ -490,7 +516,12 @@
       "source_sha256": "69652c88ad25902df48dd2344dea6998054ee13c460fc0ec45778e2f2e135774",
       "source_kind": "redacted",
       "extracted_path": "courses/software-architecture/sources/extracted/лабораторна робота 1 АППЗ.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 20,
+        "source": "user_delegated_free_choice_2026-10-09",
+        "rationale": "Комплектуючі до верстатів: три основні сутності й одна явно задана діаграма; менше операцій, ніж у решти запропонованих областей. Не вигадувати додаткову предметну область."
+      }
     },
     {
       "id": "data-structures-lab-06",
@@ -593,19 +624,23 @@
       "source_file": "Лабораторна робота 3.docx",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/microsoft-365/sources/originals/Лабораторна робота 3.docx",
-      "variant_status": "user_choice_required",
+      "variant_status": "agent_selected",
       "instructions_path": "courses/microsoft-365/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
+      "ingestion_status": "ready",
       "blockers": [
-        "variant_choice_required",
         "deadline_timezone_unverified"
       ],
       "source_path": "courses/microsoft-365/sources/originals/Лабораторна робота 3.docx",
       "source_sha256": "2805d53a9b3c07467616ea724c72692bab92b5885662447538bd24a3feea215b",
       "source_kind": "originals",
       "extracted_path": "courses/microsoft-365/sources/extracted/Лабораторна робота 3.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 2,
+        "source": "user_delegated_free_choice_2026-10-09",
+        "rationale": "Магазин: простіша предметна область за багатотематичний дашборд ОТГ. Усі формули, зведені таблиці, прогноз, друк, захист і Flash Fill обов’язкові."
+      }
     },
     {
       "id": "data-analysis-lab-03",
@@ -620,18 +655,21 @@
       "source_file": "data_analysis_lab3.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/data-analysis/sources/originals/data_analysis_lab3.pdf",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/data-analysis/lab-03/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
-      "blockers": [
-        "course_variant_unverified"
-      ],
+      "ingestion_status": "ready",
+      "blockers": [],
       "source_path": "courses/data-analysis/sources/originals/data_analysis_lab3.pdf",
       "source_sha256": "573d69d23539d7e68901f972099db23e8eb113571808b9aeff0bc6cece56bf45",
       "source_kind": "originals",
       "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab3.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-analysis-lab-04",
@@ -646,18 +684,21 @@
       "source_file": "data_analysis_lab4.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/data-analysis/sources/originals/data_analysis_lab4.pdf",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/data-analysis/lab-04/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
-      "blockers": [
-        "course_variant_unverified"
-      ],
+      "ingestion_status": "ready",
+      "blockers": [],
       "source_path": "courses/data-analysis/sources/originals/data_analysis_lab4.pdf",
       "source_sha256": "8fb54a20115a3655b51ce219669b968d251e871b6b719b389a609bb719763344",
       "source_kind": "originals",
       "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab4.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-analysis-lab-05",
@@ -672,18 +713,21 @@
       "source_file": "data_analysis_lab5.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/data-analysis/sources/originals/data_analysis_lab5.pdf",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/data-analysis/lab-05/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
-      "blockers": [
-        "course_variant_unverified"
-      ],
+      "ingestion_status": "ready",
+      "blockers": [],
       "source_path": "courses/data-analysis/sources/originals/data_analysis_lab5.pdf",
       "source_sha256": "a464800e8db8d74f52041678da26bd4d84309f6951346f791791d581201e1340",
       "source_kind": "originals",
       "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab5.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false
+      }
     },
     {
       "id": "data-analysis-lab-06",
@@ -698,20 +742,29 @@
       "source_file": "data_analysis_lab6.pdf",
       "original_file_status": "downloaded_verified",
       "original_path": "courses/data-analysis/sources/originals/data_analysis_lab6.pdf",
-      "variant_status": "unverified",
+      "variant_status": "user_confirmed",
       "instructions_path": "courses/data-analysis/lab-06/TASK.md",
       "reviewed_at": "2026-10-09",
-      "ingestion_status": "requirements_partially_reviewed",
-      "blockers": [
-        "course_variant_unverified"
-      ],
+      "ingestion_status": "ready",
+      "blockers": [],
       "source_path": "courses/data-analysis/sources/originals/data_analysis_lab6.pdf",
       "source_sha256": "e40ccbad42fcff1391267184f1318d05a63474036a231d196c833b0ac2e6559f",
       "source_kind": "originals",
       "extracted_path": "courses/data-analysis/sources/extracted/data_analysis_lab6.txt",
-      "requirements_review": "full_methodic_read"
+      "requirements_review": "full_methodic_read",
+      "variant": {
+        "number": 21,
+        "source": "user_instruction_2026-10-09",
+        "course_list_verified": false,
+        "derived_problem_number": 1
+      }
     }
   ],
   "planning_timezone": "Europe/Kiev",
-  "planning_timezone_note": "Часовий пояс користувача, не підтвердження часового поясу відображених Teams-дедлайнів."
+  "planning_timezone_note": "Часовий пояс користувача, не підтвердження часового поясу відображених Teams-дедлайнів.",
+  "variant_policy": {
+    "assigned_number": 21,
+    "free_choice": "lowest_requirement_complexity",
+    "source": "user_instruction_2026-10-09"
+  }
 }
