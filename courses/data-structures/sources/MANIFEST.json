@@ -2,52 +2,187 @@
   "course": "data-structures",
   "files": [
     {
+      "filename": "ДС Критерії оцінювання.pdf",
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС Критерії оцінювання.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "2626e7bfa0d33c1f322fe86f7d2d159e6ffc6ad96b75e336ae5936676de0bde6",
+      "reviewed_at": "2026-10-09"
+    },
+    {
       "filename": "ДС_ЛР_1 2026.pdf",
-      "task_id": "data-structures-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС_ЛР_1 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "fdd64d2cfa718191d38b10b53ededc1e7be444731b0ba10e37de7de210dfca9e",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "ДС_ЛР_2 2026.pdf",
-      "task_id": "data-structures-lab-02",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС_ЛР_2 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "b85e1cf94bc1e1ad23e604ba333099e506d58aa81aa95ffe995c81e615c88d9b",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "ДС_ЛР_3 2026.pdf",
-      "task_id": "data-structures-lab-03",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС_ЛР_3 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "dbabc0517c0254be67068613f426f70aff9c66d0529939b9b5f1c06c1938905c",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "ДС_ЛР_4 2026.pdf",
-      "task_id": "data-structures-lab-04",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС_ЛР_4 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "58d240e086ccb7bf6cab56a3e57ee2e7c80963455789f9ccd6c828eac8421dbf",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "ДС_ЛР_5 2026.pdf",
-      "task_id": "data-structures-lab-05",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС_ЛР_5 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "81308f157372e416462e5b3c1bc1c1c5f3cf0b193cd7304f7dfa7b12486eba32",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "ДС_ЛР_6 2026.pdf",
-      "task_id": "data-structures-lab-06",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/ДС_ЛР_6 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "a875af18a1276170d08a8ae288ce3bbe9a9706423d2c983a6f5804a45f19505c",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Приклад 1 Інтерфейс-функція.cpp",
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/Приклад 1 Інтерфейс-функція.cpp",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "4f43adabfd8ff8ca48d499de3dc15df4b9aae3769b8e16446f6449eb797230d2",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Приклад 2 Інтерфейс-функція.cpp",
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/Приклад 2 Інтерфейс-функція.cpp",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "3ae61aa798006c78889c234754a274581c92b83b595545850857068db3781e09",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Тематика ДС (ЛР 1-6 ) 2026.pdf",
+      "kind": "originals",
+      "path": "courses/data-structures/sources/originals/Тематика ДС (ЛР 1-6 ) 2026.pdf",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "092a97213859ebbe1e373c396190a1f16abafa68d25dfd23d76501b284bb2f82",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "report-template.docx",
+      "kind": "redacted",
+      "path": "courses/data-structures/sources/redacted/report-template.docx",
+      "status": "redacted",
+      "privacy_review": "passed",
+      "sha256": "b91ce236654c06f97c78e59fd2ce17f6dbe6805d2e1a96ddf0dc3a66497a878e",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "report-template.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/report-template.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "b51493d9ec5c2b99023a20c1510f80629b23e798e80295e53a7716aceb9be810",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС Критерії оцінювання.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС Критерії оцінювання.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "9f2d45deeadf0d7002b9c0754c4f063c044fc8f2317e01dfd09e1edfc720d754",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС_ЛР_1 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС_ЛР_1 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "8ab04b6e33dcb8064318bc66441da7783661a33b6fd8f29ebb2a056bd565b158",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС_ЛР_2 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС_ЛР_2 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "8933d172ca7051299c868523d55e545846e450bfef3c846d8c975df22b8df430",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС_ЛР_3 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС_ЛР_3 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "8c14583929a437b17ecfd451a0cea8bc2380e4a0d586a70d0f67dac6985e0aab",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС_ЛР_4 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС_ЛР_4 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "df804e1fe210b96f1ce34af6dc0140d6752f00844a9437d85886051e1c51fa79",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС_ЛР_5 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС_ЛР_5 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "9dc20fa69ce37a6207b216f674a815a5a3026e5abd35f2937e1061ac3add4bb4",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "ДС_ЛР_6 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/ДС_ЛР_6 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "5c71502c802fd83d95b19744b7299e9f3450894a98ca348f091e8e975750609a",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Тематика ДС (ЛР 1-6 ) 2026.txt",
+      "kind": "extracted",
+      "path": "courses/data-structures/sources/extracted/Тематика ДС (ЛР 1-6 ) 2026.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "ab3c28b4b8a1e0086d85f03e233b61ef95645895023595c84135b80144257962",
+      "reviewed_at": "2026-10-09"
     }
+  ],
+  "notes": [
+    "Неочищений файл з персональними метаданими виключено; збережено тільки redacted-копію без самих персональних даних."
   ]
 }
