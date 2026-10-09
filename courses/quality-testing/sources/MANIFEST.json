@@ -1,0 +1,29 @@
+{
+  "course": "quality-testing",
+  "files": [
+    {
+      "filename": "Лаб1.docx",
+      "task_id": "quality-testing-lab-01",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "Лаб2 1 (1).doc",
+      "task_id": "quality-testing-lab-02",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    },
+    {
+      "filename": "Лаб3 (1).doc",
+      "task_id": "quality-testing-lab-03",
+      "status": "not_downloaded",
+      "sha256": null,
+      "privacy_review": "pending",
+      "path": null
+    }
+  ]
+}
