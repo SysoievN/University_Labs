@@ -3,27 +3,58 @@
   "files": [
     {
       "filename": "Лаб1.docx",
-      "task_id": "quality-testing-lab-01",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/quality-testing/sources/originals/Лаб1.docx",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "a2901711860be42c8f7e56a4b4010e02405f7478243ea7555412bb7ad1a15e97",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "Лаб2 1 (1).doc",
-      "task_id": "quality-testing-lab-02",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/quality-testing/sources/originals/Лаб2 1 (1).doc",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "eeb9656ab020decbf49317c7c3afe1c9ef50d16afa4a62c3658f850abef4a237",
+      "reviewed_at": "2026-10-09"
     },
     {
       "filename": "Лаб3 (1).doc",
-      "task_id": "quality-testing-lab-03",
-      "status": "not_downloaded",
-      "sha256": null,
-      "privacy_review": "pending",
-      "path": null
+      "kind": "originals",
+      "path": "courses/quality-testing/sources/originals/Лаб3 (1).doc",
+      "status": "downloaded_verified",
+      "privacy_review": "passed",
+      "sha256": "2872ed76c86bf5d04d1bc8d3025e340fcc4da1a952ed1ea37b53357f9fea68f5",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Лаб1.txt",
+      "kind": "extracted",
+      "path": "courses/quality-testing/sources/extracted/Лаб1.txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "47554ce6073589a1b55636f366ff89acddef3d36bb365dd1670bf322ea2dbb45",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Лаб2 1 (1).txt",
+      "kind": "extracted",
+      "path": "courses/quality-testing/sources/extracted/Лаб2 1 (1).txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "e9ec94a3fc0f670975bc678947baca99cde47901732621b9d314879b882864d1",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "filename": "Лаб3 (1).txt",
+      "kind": "extracted",
+      "path": "courses/quality-testing/sources/extracted/Лаб3 (1).txt",
+      "status": "extracted",
+      "privacy_review": "passed",
+      "sha256": "ab729240b0499a461a609301145aeb93de5ab5252d6b56c2cd10780d91997cc2",
+      "reviewed_at": "2026-10-09"
     }
-  ]
+  ],
+  "notes": []
 }
